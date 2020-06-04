@@ -1,0 +1,5 @@
+*.csv
+data/
+assets/
+**/data/*.csv
+data/**/*.csv
